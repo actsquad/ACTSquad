@@ -17,7 +17,7 @@ $kk = $data3[1];
 //$data4 = array('KTP' => $ktp, 'NO_KK' => $kk);
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
 echo "\e[97m Code By; Greyanonymous\n";
-echo " Thanks To;\e[92m Indonesian Security || indoxploit\n\n";
+echo " Thanks To;\e[92m ACTsquad || GamingDesa45\n\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK  : ".$kk."\n";
 ?>
